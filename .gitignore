@@ -1,0 +1,72 @@
+venv_name/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+venv/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Environment files
+.env
+*.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.idea/
+.vscode/
+
+# Cache files
+*.cache
+*.tmp
+
+# Machine Learning Artifacts
+*.h5
+*.hdf5
+*.ckpt
+*.onnx
+*.joblib
+*.pkl
+*.pb
+model/
+models/
+
+# Dataset files
+*.csv
+*.tsv
+*.json
+*.xml
+*.zip
+*.tar
+*.gz
+*.npy
+*.npz
+
+# TensorBoard logs
+logs/
+log/
+
+# Saved results
+*.out
+*.results
+
+# Training checkpoints
+checkpoints/
+*.ckpt
+
+# Miscellaneous
+*.bak
+*.swp
